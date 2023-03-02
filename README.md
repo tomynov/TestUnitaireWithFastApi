@@ -34,7 +34,7 @@ Dans un fichier main.py :
 Api :
 
 Cmd  : pip install "uvicorn[standard]"
-Puis aller sur : [http://127.0.0.1:8000](http://127.0.0.1:8000/docs#/default)
+Puis aller sur : [http://127.0.0.1:8000](http://127.0.0.1:8000/docs#/default)  (http://127.0.0.1:8000/docs#/default)
 
 Il est maintenant possible d'utiliser les différentes méthodes : CRUD (j'ai 2 delete, l'un pour supprimer 1 row l'un pour tout supprimer)
 
